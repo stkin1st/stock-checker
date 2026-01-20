@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mac Mini Stock Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>Mac Mini Stock Tracker</h1>
+                <p class="subtitle">Real-time inventory tracker for the Mac Mini (Late 2024) across all Microcenter
+                    locations.</p>
+            </div>
+            <div id="last-updated">Loading...</div>
+        </header>
+
+        <div class="table-container">
+            <table id="stock-table">
+                <thead>
+                    <tr>
+                        <th>Store Location</th>
+                        <th>Link</th>
+                        <th>Availability</th>
+                        <th>Quantity</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Data will be inserted here -->
+                </tbody>
+            </table>
+        </div>
+
+        <footer>
+            <div class="footer-content">
+                <p>Powered by Ionized Kepler & GitHub Actions</p>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Toast Notification for Copy -->
+    <div id="toast" class="toast">Link Copied!</div>
+
+    <script>
+        async function loadData() {
+            try {
+                const response = await fetch('data.json');
+                const data = await response.json();
+
+                // Update timestamp
+                const date = new Date(data.lastUpdated);
+                document.getElementById('last-updated').textContent =
+                    `Last Updated: ${date.toLocaleString()}`;
+
+                const tbody = document.querySelector('#stock-table tbody');
+                tbody.innerHTML = '';
+
+                data.stores.forEach(store => {
+                    const tr = document.createElement('tr');
+
+                    // Logic: 
+                    // 1. If Available -> Show "IN STOCK" badge
+                    // 2. If Not Available -> Show "Out of Stock" plain text
+                    // 3. Force "Unknown" to be "Out of Stock"
+
+                    const isAvailable = store.available;
+                    let displayStatus = 'Out of Stock';
+                    let statusClass = 'status-out';
+
+                    if (isAvailable) {
+                        displayStatus = 'IN STOCK';
+                        statusClass = 'status-available';
+                    }
+
+                    // Generate specific link
+                    // Use productUrl from JSON, or fallback if missing (during dev)
+                    const baseUrl = data.productUrl || 'https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer';
+                    const link = `${baseUrl}?storeid=${store.storeId}`;
+
+                    tr.innerHTML = `
+                        <td>${store.storeName}</td>
+                        <td>
+                            <button class="copy-btn" onclick="copyToClipboard('${link}')">
+                                Copy Link 🔗
+                            </button>
+                        </td>
+                        <td><span class="${statusClass}">${displayStatus}</span></td>
+                        <td>${store.count > 0 ? store.count : '-'}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('last-updated').textContent = 'Error loading data';
+            }
+        }
+
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                showToast();
+            }).catch(err => {
+                console.error('Failed to copy: ', err);
+            });
+        }
+
+        function showToast() {
+            const toast = document.getElementById('toast');
+            toast.className = "toast show";
+            setTimeout(function () { toast.className = toast.className.replace("show", ""); }, 3000);
+        }
+
+        loadData();
+    </script>
+</body>
+
+</html>
