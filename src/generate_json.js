@@ -15,7 +15,7 @@ async function generateData() {
             stores: results
         };
 
-        const publicDir = path.join(__dirname, '../public');
+        const publicDir = path.join(__dirname, '../docs');
 
         // Ensure public directory exists
         if (!fs.existsSync(publicDir)) {
@@ -27,7 +27,7 @@ async function generateData() {
             JSON.stringify(data, null, 2)
         );
 
-        console.log('Successfully wrote public/data.json');
+        console.log('Successfully wrote docs/data.json');
 
     } catch (error) {
         console.error('Error generating data:', error);
