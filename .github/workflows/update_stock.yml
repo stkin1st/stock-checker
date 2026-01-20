@@ -30,6 +30,10 @@ jobs:
         run: npx playwright install chromium
 
       - name: Run Generator Script
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: node src/generate_json.js
 
       - name: Commit and Push Changes

@@ -109,6 +109,15 @@ node src/generate_json.js
     git push -u origin master
     ```
 
+    > **Create a Password-Style Token (Required):**
+    > GitHub does *not* accept your account password here. You must create a special "Access Token".
+    > 1. Go to [GitHub Token Settings](https://github.com/settings/tokens).
+    > 2. Click **Generate new token (classic)**.
+    > 3. Give it a Note (e.g. "Stock App").
+    > 4. Check the **repo** box AND the **workflow** box (crucial for Actions).
+    > 5. Click **Generate token**.
+    > 6. **Copy that long string** (starts with `ghp_...`). Use *that* as your password in the terminal.
+
 ### Step 3: Enable "The Robot" & Website
 1.  Go to your new Repo page on GitHub.
 2.  Click **Settings** (top right tab).
