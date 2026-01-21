@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-01-21T09:41:39.611Z",
+  "lastUpdated": "2026-01-21T10:38:40.133Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
       "price": "",
-      "stockText": "7 NEW IN STOCK",
+      "stockText": "6 NEW IN STOCK",
       "available": true,
-      "count": 7
+      "count": 6
     },
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
       "price": "",
-      "stockText": "4 NEW IN STOCK",
+      "stockText": "2 NEW IN STOCK",
       "available": true,
-      "count": 4
+      "count": 2
     },
     {
       "storeName": "CO - Denver",
@@ -30,17 +30,17 @@
       "storeName": "GA - Duluth",
       "storeId": "065",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "1 NEW IN STOCK",
+      "available": true,
+      "count": 1
     },
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "25+ NEW IN STOCK",
+      "available": true,
+      "count": 25
     },
     {
       "storeName": "IL - Chicago",
@@ -54,9 +54,9 @@
       "storeName": "IL - Westmont",
       "storeId": "025",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "1 NEW IN STOCK",
+      "available": true,
+      "count": 1
     },
     {
       "storeName": "KS - Overland Park",
@@ -86,17 +86,17 @@
       "storeName": "MD - Parkville",
       "storeId": "125",
       "price": "",
-      "stockText": "2 NEW IN STOCK",
+      "stockText": "15 NEW IN STOCK",
       "available": true,
-      "count": 2
+      "count": 15
     },
     {
       "storeName": "MI - Madison Heights",
       "storeId": "055",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "1 NEW IN STOCK",
+      "available": true,
+      "count": 1
     },
     {
       "storeName": "MN - St. Louis Park",
@@ -174,9 +174,9 @@
       "storeName": "OH - Sharonville",
       "storeId": "071",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "14 NEW IN STOCK",
+      "available": true,
+      "count": 14
     },
     {
       "storeName": "PA - St. Davids",
@@ -238,9 +238,9 @@
       "storeName": "CA - Santa Clara",
       "storeId": "195",
       "price": "",
-      "stockText": "2 NEW IN STOCK",
-      "available": true,
-      "count": 2
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "TX - Austin",
