@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T09:39:18.690Z",
+  "lastUpdated": "2026-01-23T10:34:29.084Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -46,9 +46,9 @@
       "storeName": "IL - Chicago",
       "storeId": "151",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "10 NEW IN STOCK",
+      "available": true,
+      "count": 10
     },
     {
       "storeName": "IL - Westmont",
@@ -62,17 +62,17 @@
       "storeName": "KS - Overland Park",
       "storeId": "191",
       "price": "",
-      "stockText": "1 NEW IN STOCK",
+      "stockText": "2 NEW IN STOCK",
       "available": true,
-      "count": 1
+      "count": 2
     },
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "9 NEW IN STOCK",
+      "available": true,
+      "count": 9
     },
     {
       "storeName": "MD - Rockville",
@@ -94,9 +94,9 @@
       "storeName": "MI - Madison Heights",
       "storeId": "055",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "14 NEW IN STOCK",
+      "available": true,
+      "count": 14
     },
     {
       "storeName": "MN - St. Louis Park",
@@ -142,9 +142,9 @@
       "storeName": "NY - Flushing",
       "storeId": "145",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "1 NEW IN STOCK",
+      "available": true,
+      "count": 1
     },
     {
       "storeName": "NY - Yonkers",
@@ -158,9 +158,9 @@
       "storeName": "OH - Columbus",
       "storeId": "141",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "11 NEW IN STOCK",
+      "available": true,
+      "count": 11
     },
     {
       "storeName": "OH - Mayfield Heights",
@@ -174,9 +174,9 @@
       "storeName": "OH - Sharonville",
       "storeId": "071",
       "price": "",
-      "stockText": "1 NEW IN STOCK",
+      "stockText": "14 NEW IN STOCK",
       "available": true,
-      "count": 1
+      "count": 14
     },
     {
       "storeName": "PA - St. Davids",
@@ -206,17 +206,17 @@
       "storeName": "VA - Fairfax",
       "storeId": "081",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "8 NEW IN STOCK",
+      "available": true,
+      "count": 8
     },
     {
       "storeName": "IN - Indianapolis",
       "storeId": "165",
       "price": "",
-      "stockText": "9 NEW IN STOCK",
+      "stockText": "8 NEW IN STOCK",
       "available": true,
-      "count": 9
+      "count": 8
     },
     {
       "storeName": "NC - Charlotte",
