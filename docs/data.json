@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:40:07.800Z",
+  "lastUpdated": "2026-01-25T19:26:50.845Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -38,9 +38,9 @@
       "storeName": "GA - Marietta",
       "storeId": "041",
       "price": "",
-      "stockText": "3 NEW IN STOCK",
+      "stockText": "1 NEW IN STOCK",
       "available": true,
-      "count": 3
+      "count": 1
     },
     {
       "storeName": "IL - Chicago",
@@ -77,10 +77,8 @@
     {
       "storeName": "MD - Rockville",
       "storeId": "085",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=085\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MD - Parkville",
@@ -141,18 +139,14 @@
     {
       "storeName": "NY - Flushing",
       "storeId": "145",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=145\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "NY - Yonkers",
       "storeId": "105",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=105\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "OH - Columbus",
@@ -166,9 +160,9 @@
       "storeName": "OH - Mayfield Heights",
       "storeId": "051",
       "price": "",
-      "stockText": "3 NEW IN STOCK",
+      "stockText": "2 NEW IN STOCK",
       "available": true,
-      "count": 3
+      "count": 2
     },
     {
       "storeName": "OH - Sharonville",
