@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T20:34:54.634Z",
+  "lastUpdated": "2026-01-25T21:27:46.473Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -134,9 +134,9 @@
       "storeName": "NY - Brooklyn",
       "storeId": "115",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "2 NEW IN STOCK",
+      "available": true,
+      "count": 2
     },
     {
       "storeName": "NY - Flushing",
@@ -166,9 +166,9 @@
       "storeName": "OH - Mayfield Heights",
       "storeId": "051",
       "price": "",
-      "stockText": "2 NEW IN STOCK",
+      "stockText": "1 NEW IN STOCK",
       "available": true,
-      "count": 2
+      "count": 1
     },
     {
       "storeName": "OH - Sharonville",
@@ -205,14 +205,18 @@
     {
       "storeName": "VA - Fairfax",
       "storeId": "081",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=081\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IN - Indianapolis",
       "storeId": "165",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=165\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "NC - Charlotte",
@@ -225,8 +229,10 @@
     {
       "storeName": "FL - Miami",
       "storeId": "185",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=185\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "CA - Santa Clara",
