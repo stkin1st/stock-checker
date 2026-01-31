@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T18:43:01.854Z",
+  "lastUpdated": "2026-01-31T19:28:08.129Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -149,7 +149,7 @@
     {
       "storeName": "NY - Yonkers",
       "storeId": "105",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -157,15 +157,15 @@
     {
       "storeName": "OH - Columbus",
       "storeId": "141",
-      "price": "",
-      "stockText": "6 NEW IN STOCK",
-      "available": true,
-      "count": 6
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "OH - Mayfield Heights",
       "storeId": "051",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -173,7 +173,7 @@
     {
       "storeName": "OH - Sharonville",
       "storeId": "071",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -181,7 +181,7 @@
     {
       "storeName": "PA - St. Davids",
       "storeId": "061",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -189,7 +189,7 @@
     {
       "storeName": "TX - Houston",
       "storeId": "155",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -197,7 +197,7 @@
     {
       "storeName": "TX - Dallas",
       "storeId": "131",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -205,7 +205,7 @@
     {
       "storeName": "VA - Fairfax",
       "storeId": "081",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -213,23 +213,23 @@
     {
       "storeName": "IN - Indianapolis",
       "storeId": "165",
-      "price": "",
-      "stockText": "11 NEW IN STOCK",
-      "available": true,
-      "count": 11
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "NC - Charlotte",
       "storeId": "175",
-      "price": "",
-      "stockText": "5 NEW IN STOCK",
-      "available": true,
-      "count": 5
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "FL - Miami",
       "storeId": "185",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
