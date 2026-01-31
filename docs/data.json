@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-31T11:28:49.144Z",
+  "lastUpdated": "2026-01-31T13:02:00.114Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -13,7 +13,7 @@
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -21,15 +21,15 @@
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "price": "",
-      "stockText": "15 NEW IN STOCK",
-      "available": true,
-      "count": 15
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "GA - Duluth",
       "storeId": "065",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -37,7 +37,7 @@
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -45,15 +45,15 @@
     {
       "storeName": "IL - Chicago",
       "storeId": "151",
-      "price": "",
-      "stockText": "11 NEW IN STOCK",
-      "available": true,
-      "count": 11
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IL - Westmont",
       "storeId": "025",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -61,7 +61,7 @@
     {
       "storeName": "KS - Overland Park",
       "storeId": "191",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -69,7 +69,7 @@
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -77,7 +77,7 @@
     {
       "storeName": "MD - Rockville",
       "storeId": "085",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -85,7 +85,7 @@
     {
       "storeName": "MD - Parkville",
       "storeId": "125",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -93,7 +93,7 @@
     {
       "storeName": "MI - Madison Heights",
       "storeId": "055",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -214,25 +214,25 @@
       "storeName": "IN - Indianapolis",
       "storeId": "165",
       "price": "",
-      "stockText": "18 NEW IN STOCK",
+      "stockText": "17 NEW IN STOCK",
       "available": true,
-      "count": 18
+      "count": 17
     },
     {
       "storeName": "NC - Charlotte",
       "storeId": "175",
       "price": "",
-      "stockText": "13 NEW IN STOCK",
+      "stockText": "10 NEW IN STOCK",
       "available": true,
-      "count": 13
+      "count": 10
     },
     {
       "storeName": "FL - Miami",
       "storeId": "185",
       "price": "",
-      "stockText": "14 NEW IN STOCK",
+      "stockText": "12 NEW IN STOCK",
       "available": true,
-      "count": 14
+      "count": 12
     },
     {
       "storeName": "CA - Santa Clara",
