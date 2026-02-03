@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T19:49:31.487Z",
+  "lastUpdated": "2026-02-03T20:47:48.534Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -21,15 +21,15 @@
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "price": "",
+      "stockText": "4 NEW IN STOCK",
+      "available": true,
+      "count": 4
     },
     {
       "storeName": "GA - Duluth",
       "storeId": "065",
-      "price": "N/A",
+      "price": "",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -37,7 +37,7 @@
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
-      "price": "N/A",
+      "price": "",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -45,7 +45,7 @@
     {
       "storeName": "IL - Chicago",
       "storeId": "151",
-      "price": "N/A",
+      "price": "",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -53,7 +53,7 @@
     {
       "storeName": "IL - Westmont",
       "storeId": "025",
-      "price": "N/A",
+      "price": "",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -61,15 +61,15 @@
     {
       "storeName": "KS - Overland Park",
       "storeId": "191",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "price": "",
+      "stockText": "11 NEW IN STOCK",
+      "available": true,
+      "count": 11
     },
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
-      "price": "N/A",
+      "price": "",
       "stockText": "Unknown",
       "available": false,
       "count": 0
