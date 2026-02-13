@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-13T05:00:41.889Z",
+  "lastUpdated": "2026-02-13T06:09:30.218Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -38,7 +38,7 @@
       "storeName": "GA - Marietta",
       "storeId": "041",
       "price": "",
-      "stockText": "Unknown",
+      "stockText": "0 NEW IN STOCK",
       "available": false,
       "count": 0
     },
@@ -94,17 +94,17 @@
       "storeName": "MI - Madison Heights",
       "storeId": "055",
       "price": "",
-      "stockText": "1 NEW IN STOCK",
-      "available": true,
-      "count": 1
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MN - St. Louis Park",
       "storeId": "045",
       "price": "",
-      "stockText": "1 NEW IN STOCK",
-      "available": true,
-      "count": 1
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MO - Brentwood",
@@ -174,7 +174,7 @@
       "storeName": "OH - Sharonville",
       "storeId": "071",
       "price": "",
-      "stockText": "Unknown",
+      "stockText": "0 NEW IN STOCK",
       "available": false,
       "count": 0
     },
@@ -230,9 +230,9 @@
       "storeName": "FL - Miami",
       "storeId": "185",
       "price": "",
-      "stockText": "2 NEW IN STOCK",
-      "available": true,
-      "count": 2
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "CA - Santa Clara",
