@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-13T11:39:15.947Z",
+  "lastUpdated": "2026-02-13T13:15:54.350Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -13,15 +13,15 @@
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
-      "price": "",
-      "stockText": "22 NEW IN STOCK",
-      "available": true,
-      "count": 22
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -29,7 +29,7 @@
     {
       "storeName": "GA - Duluth",
       "storeId": "065",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -37,23 +37,23 @@
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
-      "price": "",
-      "stockText": "5 NEW IN STOCK",
-      "available": true,
-      "count": 5
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IL - Chicago",
       "storeId": "151",
-      "price": "",
-      "stockText": "4 NEW IN STOCK",
-      "available": true,
-      "count": 4
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IL - Westmont",
       "storeId": "025",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -61,7 +61,7 @@
     {
       "storeName": "KS - Overland Park",
       "storeId": "191",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -69,15 +69,15 @@
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
-      "price": "",
-      "stockText": "17 NEW IN STOCK",
-      "available": true,
-      "count": 17
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MD - Rockville",
       "storeId": "085",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -85,15 +85,15 @@
     {
       "storeName": "MD - Parkville",
       "storeId": "125",
-      "price": "",
-      "stockText": "5 NEW IN STOCK",
-      "available": true,
-      "count": 5
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MI - Madison Heights",
       "storeId": "055",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
@@ -101,10 +101,10 @@
     {
       "storeName": "MN - St. Louis Park",
       "storeId": "045",
-      "price": "",
-      "stockText": "1 NEW IN STOCK",
-      "available": true,
-      "count": 1
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MO - Brentwood",
@@ -118,9 +118,9 @@
       "storeName": "NJ - North Jersey",
       "storeId": "075",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "9 NEW IN STOCK",
+      "available": true,
+      "count": 9
     },
     {
       "storeName": "NY - Westbury",
@@ -158,9 +158,9 @@
       "storeName": "OH - Columbus",
       "storeId": "141",
       "price": "",
-      "stockText": "7 NEW IN STOCK",
+      "stockText": "6 NEW IN STOCK",
       "available": true,
-      "count": 7
+      "count": 6
     },
     {
       "storeName": "OH - Mayfield Heights",
@@ -198,9 +198,9 @@
       "storeName": "TX - Dallas",
       "storeId": "131",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "2 NEW IN STOCK",
+      "available": true,
+      "count": 2
     },
     {
       "storeName": "VA - Fairfax",
@@ -214,9 +214,9 @@
       "storeName": "IN - Indianapolis",
       "storeId": "165",
       "price": "",
-      "stockText": "11 NEW IN STOCK",
+      "stockText": "10 NEW IN STOCK",
       "available": true,
-      "count": 11
+      "count": 10
     },
     {
       "storeName": "NC - Charlotte",
