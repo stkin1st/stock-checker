@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T02:37:53.517Z",
+  "lastUpdated": "2026-02-20T04:54:13.842Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -30,9 +30,9 @@
       "storeName": "GA - Duluth",
       "storeId": "065",
       "price": "",
-      "stockText": "12 NEW IN STOCK",
+      "stockText": "13 NEW IN STOCK",
       "available": true,
-      "count": 12
+      "count": 13
     },
     {
       "storeName": "GA - Marietta",
@@ -54,17 +54,17 @@
       "storeName": "IL - Westmont",
       "storeId": "025",
       "price": "",
-      "stockText": "16 NEW IN STOCK",
+      "stockText": "14 NEW IN STOCK",
       "available": true,
-      "count": 16
+      "count": 14
     },
     {
       "storeName": "KS - Overland Park",
       "storeId": "191",
       "price": "",
-      "stockText": "11 NEW IN STOCK",
+      "stockText": "9 NEW IN STOCK",
       "available": true,
-      "count": 11
+      "count": 9
     },
     {
       "storeName": "MA - Cambridge",
@@ -110,33 +110,33 @@
       "storeName": "MO - Brentwood",
       "storeId": "095",
       "price": "",
-      "stockText": "18 NEW IN STOCK",
+      "stockText": "17 NEW IN STOCK",
       "available": true,
-      "count": 18
+      "count": 17
     },
     {
       "storeName": "NJ - North Jersey",
       "storeId": "075",
       "price": "",
-      "stockText": "18 NEW IN STOCK",
+      "stockText": "17 NEW IN STOCK",
       "available": true,
-      "count": 18
+      "count": 17
     },
     {
       "storeName": "NY - Westbury",
       "storeId": "171",
       "price": "",
-      "stockText": "20 NEW IN STOCK",
+      "stockText": "21 NEW IN STOCK",
       "available": true,
-      "count": 20
+      "count": 21
     },
     {
       "storeName": "NY - Brooklyn",
       "storeId": "115",
       "price": "",
-      "stockText": "10 NEW IN STOCK",
+      "stockText": "12 NEW IN STOCK",
       "available": true,
-      "count": 10
+      "count": 12
     },
     {
       "storeName": "NY - Flushing",
@@ -158,9 +158,9 @@
       "storeName": "OH - Columbus",
       "storeId": "141",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "19 NEW IN STOCK",
+      "available": true,
+      "count": 19
     },
     {
       "storeName": "OH - Mayfield Heights",
@@ -182,9 +182,9 @@
       "storeName": "PA - St. Davids",
       "storeId": "061",
       "price": "",
-      "stockText": "15 NEW IN STOCK",
+      "stockText": "14 NEW IN STOCK",
       "available": true,
-      "count": 15
+      "count": 14
     },
     {
       "storeName": "TX - Houston",
