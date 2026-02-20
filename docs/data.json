@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T20:42:18.366Z",
+  "lastUpdated": "2026-02-20T21:34:04.331Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -46,9 +46,9 @@
       "storeName": "IL - Chicago",
       "storeId": "151",
       "price": "",
-      "stockText": "16 NEW IN STOCK",
+      "stockText": "15 NEW IN STOCK",
       "available": true,
-      "count": 16
+      "count": 15
     },
     {
       "storeName": "IL - Westmont",
@@ -70,9 +70,9 @@
       "storeName": "MA - Cambridge",
       "storeId": "121",
       "price": "",
-      "stockText": "14 NEW IN STOCK",
+      "stockText": "13 NEW IN STOCK",
       "available": true,
-      "count": 14
+      "count": 13
     },
     {
       "storeName": "MD - Rockville",
@@ -86,17 +86,17 @@
       "storeName": "MD - Parkville",
       "storeId": "125",
       "price": "",
-      "stockText": "19 NEW IN STOCK",
+      "stockText": "18 NEW IN STOCK",
       "available": true,
-      "count": 19
+      "count": 18
     },
     {
       "storeName": "MI - Madison Heights",
       "storeId": "055",
       "price": "",
-      "stockText": "13 NEW IN STOCK",
+      "stockText": "12 NEW IN STOCK",
       "available": true,
-      "count": 13
+      "count": 12
     },
     {
       "storeName": "MN - St. Louis Park",
@@ -118,17 +118,17 @@
       "storeName": "NJ - North Jersey",
       "storeId": "075",
       "price": "",
-      "stockText": "14 NEW IN STOCK",
+      "stockText": "13 NEW IN STOCK",
       "available": true,
-      "count": 14
+      "count": 13
     },
     {
       "storeName": "NY - Westbury",
       "storeId": "171",
       "price": "",
-      "stockText": "20 NEW IN STOCK",
+      "stockText": "18 NEW IN STOCK",
       "available": true,
-      "count": 20
+      "count": 18
     },
     {
       "storeName": "NY - Brooklyn",
@@ -158,9 +158,9 @@
       "storeName": "OH - Columbus",
       "storeId": "141",
       "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "OH - Mayfield Heights",
@@ -214,9 +214,9 @@
       "storeName": "IN - Indianapolis",
       "storeId": "165",
       "price": "",
-      "stockText": "13 NEW IN STOCK",
+      "stockText": "12 NEW IN STOCK",
       "available": true,
-      "count": 13
+      "count": 12
     },
     {
       "storeName": "NC - Charlotte",
