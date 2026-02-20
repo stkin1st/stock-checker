@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T21:34:04.331Z",
+  "lastUpdated": "2026-02-20T22:36:03.503Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -22,23 +22,23 @@
       "storeName": "CO - Denver",
       "storeId": "181",
       "price": "",
-      "stockText": "24 NEW IN STOCK",
+      "stockText": "23 NEW IN STOCK",
       "available": true,
-      "count": 24
+      "count": 23
     },
     {
       "storeName": "GA - Duluth",
       "storeId": "065",
       "price": "",
-      "stockText": "10 NEW IN STOCK",
+      "stockText": "9 NEW IN STOCK",
       "available": true,
-      "count": 10
+      "count": 9
     },
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
       "price": "",
-      "stockText": "25+ NEW IN STOCK",
+      "stockText": "25 NEW IN STOCK",
       "available": true,
       "count": 25
     },
@@ -134,9 +134,9 @@
       "storeName": "NY - Brooklyn",
       "storeId": "115",
       "price": "",
-      "stockText": "10 NEW IN STOCK",
+      "stockText": "9 NEW IN STOCK",
       "available": true,
-      "count": 10
+      "count": 9
     },
     {
       "storeName": "NY - Flushing",
@@ -158,9 +158,9 @@
       "storeName": "OH - Columbus",
       "storeId": "141",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "25+ NEW IN STOCK",
+      "available": true,
+      "count": 25
     },
     {
       "storeName": "OH - Mayfield Heights",
@@ -174,9 +174,9 @@
       "storeName": "OH - Sharonville",
       "storeId": "071",
       "price": "",
-      "stockText": "22 NEW IN STOCK",
+      "stockText": "18 NEW IN STOCK",
       "available": true,
-      "count": 22
+      "count": 18
     },
     {
       "storeName": "PA - St. Davids",
@@ -190,9 +190,9 @@
       "storeName": "TX - Houston",
       "storeId": "155",
       "price": "",
-      "stockText": "12 NEW IN STOCK",
+      "stockText": "11 NEW IN STOCK",
       "available": true,
-      "count": 12
+      "count": 11
     },
     {
       "storeName": "TX - Dallas",
@@ -206,9 +206,9 @@
       "storeName": "VA - Fairfax",
       "storeId": "081",
       "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IN - Indianapolis",
@@ -230,9 +230,9 @@
       "storeName": "FL - Miami",
       "storeId": "185",
       "price": "",
-      "stockText": "4 NEW IN STOCK",
+      "stockText": "3 NEW IN STOCK",
       "available": true,
-      "count": 4
+      "count": 3
     },
     {
       "storeName": "CA - Santa Clara",
