@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-03-07T23:31:41.500Z",
+  "lastUpdated": "2026-03-08T02:41:42.542Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
       "price": "",
-      "stockText": "20 NEW IN STOCK",
+      "stockText": "18 NEW IN STOCK",
       "available": true,
-      "count": 20
+      "count": 18
     },
     {
       "storeName": "CA - Tustin",
@@ -30,9 +30,9 @@
       "storeName": "GA - Duluth",
       "storeId": "065",
       "price": "",
-      "stockText": "15 NEW IN STOCK",
+      "stockText": "14 NEW IN STOCK",
       "available": true,
-      "count": 15
+      "count": 14
     },
     {
       "storeName": "GA - Marietta",
@@ -54,9 +54,9 @@
       "storeName": "IL - Westmont",
       "storeId": "025",
       "price": "",
-      "stockText": "6 NEW IN STOCK",
+      "stockText": "3 NEW IN STOCK",
       "available": true,
-      "count": 6
+      "count": 3
     },
     {
       "storeName": "KS - Overland Park",
@@ -134,9 +134,9 @@
       "storeName": "NY - Brooklyn",
       "storeId": "115",
       "price": "",
-      "stockText": "13 NEW IN STOCK",
+      "stockText": "11 NEW IN STOCK",
       "available": true,
-      "count": 13
+      "count": 11
     },
     {
       "storeName": "NY - Flushing",
@@ -190,9 +190,9 @@
       "storeName": "TX - Houston",
       "storeId": "155",
       "price": "",
-      "stockText": "12 NEW IN STOCK",
+      "stockText": "9 NEW IN STOCK",
       "available": true,
-      "count": 12
+      "count": 9
     },
     {
       "storeName": "TX - Dallas",
@@ -206,9 +206,9 @@
       "storeName": "VA - Fairfax",
       "storeId": "081",
       "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "stockText": "25+ NEW IN STOCK",
+      "available": true,
+      "count": 25
     },
     {
       "storeName": "IN - Indianapolis",
