@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T08:53:26.005Z",
+  "lastUpdated": "2026-03-13T09:49:39.318Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -14,9 +14,9 @@
       "storeName": "CA - Tustin",
       "storeId": "101",
       "price": "",
-      "stockText": "2 NEW IN STOCK",
+      "stockText": "25+ NEW IN STOCK",
       "available": true,
-      "count": 2
+      "count": 25
     },
     {
       "storeName": "CO - Denver",
@@ -158,9 +158,9 @@
       "storeName": "OH - Columbus",
       "storeId": "141",
       "price": "",
-      "stockText": "25+ NEW IN STOCK",
-      "available": true,
-      "count": 25
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "OH - Mayfield Heights",
