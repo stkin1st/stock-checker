@@ -1,77 +1,99 @@
 {
-  "lastUpdated": "2026-03-26T20:48:37.723Z",
+  "lastUpdated": "2026-03-26T21:39:22.266Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=205\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=101\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=181\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "GA - Duluth",
       "storeId": "065",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=065\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=041\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IL - Chicago",
       "storeId": "151",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=151\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "IL - Westmont",
       "storeId": "025",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=025\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "KS - Overland Park",
       "storeId": "191",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=191\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=121\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MD - Rockville",
       "storeId": "085",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=085\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MD - Parkville",
       "storeId": "125",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=125\", waiting until \"domcontentloaded\"\n",
-      "available": false
+      "price": "N/A",
+      "stockText": "Unknown",
+      "available": false,
+      "count": 0
     },
     {
       "storeName": "MI - Madison Heights",
       "storeId": "055",
-      "price": "",
+      "price": "N/A",
       "stockText": "Unknown",
       "available": false,
       "count": 0
