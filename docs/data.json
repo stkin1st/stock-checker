@@ -1,27 +1,23 @@
 {
-  "lastUpdated": "2026-03-29T15:40:33.014Z",
+  "lastUpdated": "2026-03-29T16:45:39.994Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
       "storeName": "AZ - Phoenix",
       "storeId": "205",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=205\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=101\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "price": "N/A",
+      "price": "",
       "stockText": "Unknown",
       "available": false,
       "count": 0
