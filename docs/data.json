@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T05:18:57.696Z",
+  "lastUpdated": "2026-04-09T07:52:02.139Z",
   "productUrl": "https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer",
   "stores": [
     {
@@ -11,74 +11,58 @@
     {
       "storeName": "CA - Tustin",
       "storeId": "101",
-      "price": "",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=101\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "CO - Denver",
       "storeId": "181",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=181\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "GA - Duluth",
       "storeId": "065",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=065\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "GA - Marietta",
       "storeId": "041",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=041\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "IL - Chicago",
       "storeId": "151",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=151\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "IL - Westmont",
       "storeId": "025",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=025\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "KS - Overland Park",
       "storeId": "191",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=191\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MA - Cambridge",
       "storeId": "121",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.microcenter.com/product/688173/apple-mac-mini-mu9d3ll-a-(late-2024)-desktop-computer?storeid=121\", waiting until \"domcontentloaded\"\n",
+      "available": false
     },
     {
       "storeName": "MD - Rockville",
       "storeId": "085",
-      "price": "N/A",
-      "stockText": "Unknown",
-      "available": false,
-      "count": 0
+      "price": "",
+      "stockText": "13 NEW IN STOCK",
+      "available": true,
+      "count": 13
     },
     {
       "storeName": "MD - Parkville",
